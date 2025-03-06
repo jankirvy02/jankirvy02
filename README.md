@@ -7,5 +7,5 @@ I’m Jan Kirvy B. Turla, a BS Information Systems student at City College of An
 - HIgh School: Philtech Philippine Technological Institute of Science Arts and Trade
   
 # My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL] (https://github.com/jankirvy02/jankirvy02/blob/1f041b9f24f3e2301d02a2810acfa0eccb5c83cb/Midterm%20Lab%20Task%201.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/jankirvy02/jankirvy02/blob/1f041b9f24f3e2301d02a2810acfa0eccb5c83cb/Midterm%20Lab%20Task%201.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
