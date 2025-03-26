@@ -9,3 +9,4 @@ I’m Jan Kirvy B. Turla, a BS Information Systems student at City College of An
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/jankirvy02/jankirvy02/blob/8107b95543485569b9f3aa00bf82754a8553eca4/Midterm%20Lab%20Task%201.md/Task1.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
+- Midterm Lab Task 3: [Using Pivot Table and Dashboard] 
