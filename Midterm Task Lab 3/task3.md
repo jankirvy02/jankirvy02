@@ -30,11 +30,20 @@ The slicers should be functional and interactive
 
 ## Screenshots During Analysis
 
-### Sal By Role Type
-![image](https://github.com/user-attachments/assets/a72cc565-72a5-4420-bd64-23ce94cc260d)
- 
-### Sal By Size 
+### Sal by Role Type
+
+![sal by job role](https://github.com/user-attachments/assets/915fe8b7-8d7c-4643-8cf9-cc7a74710e7d)
+
+### Sal by Size
 ![sal by size](https://github.com/user-attachments/assets/398a3e58-5985-4632-a8fb-0526bd5dd899)
 
-### Sal By State
-![image](https://github.com/user-attachments/assets/0fa3ddfa-5031-46da-8e6e-f3aa47aca1b7)
+### ❄Sal by State
+![sal by state](https://github.com/user-attachments/assets/0fa3ddfa-5031-46da-8e6e-f3aa47aca1b7)
+
+### Pivot Table
+![image](https://github.com/user-attachments/assets/99270abf-b27c-4eae-9658-ae4af8c6216a)
+
+
+### MAP 
+![image](https://github.com/user-attachments/assets/97a7b44a-3aa4-44a2-8c4a-461445dac704)
+
