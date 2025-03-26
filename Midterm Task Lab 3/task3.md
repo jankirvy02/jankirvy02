@@ -30,8 +30,11 @@ The slicers should be functional and interactive
 
 ## Screenshots During Analysis
 
-### Sal By Role Type ![image](https://github.com/user-attachments/assets/a72cc565-72a5-4420-bd64-23ce94cc260d)
+### Sal By Role Type
+![image](https://github.com/user-attachments/assets/a72cc565-72a5-4420-bd64-23ce94cc260d)
  
-### Sal By Size ![image](https://github.com/user-attachments/assets/34af1c79-0e8c-4aa7-aa62-c0046960c760)
+### Sal By Size 
+![sal by size](https://github.com/user-attachments/assets/398a3e58-5985-4632-a8fb-0526bd5dd899)
 
-### Sal By State ![image](https://github.com/user-attachments/assets/fa15d624-abf4-40c4-bdb7-6e8b22605856)
+### Sal By State
+![image](https://github.com/user-attachments/assets/0fa3ddfa-5031-46da-8e6e-f3aa47aca1b7)
