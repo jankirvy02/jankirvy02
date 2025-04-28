@@ -58,6 +58,8 @@ I created a table named EmployeeData to store information about employees, inclu
 1.3 Insert Sample Data
 I inserted sample employee data into the EmployeeData table, which includes employee names, departments, salaries, hire dates, and manager relationships:
 
+![data](https://github.com/user-attachments/assets/550078fa-1c50-4c61-a52a-548cc0696220)
+
 STEP 2: Query Execution and Results
 2.1 Retrieve Employee Names and Salaries
 I executed a query to retrieve the full_name and salary of employees, ordered by salary in descending order:
@@ -69,9 +71,7 @@ I executed a query to retrieve the full_name and salary of employees, ordered by
 2.3 Retrieve Employees with Salaries Greater Than $100,000
 I executed a query to retrieve the full_name of employees who earn more than $100,000:
 
-sql
-Copy
-Edit
+
 2.4 Count Total Number of Employees
 I executed a query to count the total number of employees in the EmployeeData table:
 
