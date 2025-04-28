@@ -11,4 +11,5 @@ I’m Jan Kirvy B. Turla, a BS Information Systems student at City College of An
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://arshpatchak.github.io/testCodes/)
 - Midterm Lab Task 3: [Using Pivot Table and Dashboard](https://github.com/jankirvy02/jankirvy02/blob/main/Midterm%20Task%20Lab%203/task3.md)
 
-- Final Lab Task 1: [Using SELECT Statement](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%204.md/finaltask4.md)
+- Final Lab Task 1:
+- Final Lab Task 4: [Using SELECT Statement](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%204.md/finaltask4.md)
