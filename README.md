@@ -12,5 +12,6 @@ I’m Jan Kirvy B. Turla, a BS Information Systems student at City College of An
 - Midterm Lab Task 3: [Using Pivot Table and Dashboard](https://github.com/jankirvy02/jankirvy02/blob/main/Midterm%20Task%20Lab%203/task3.md)
 
 - Final Lab Task 1: [MySQL Basics](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%201/final1.md)
-- Final Lab Task 2:
+- Final Lab Task 2: [Transforming ER Model to Relational Tables](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%202/final2.md)
+- Final Lab Task 3: [Table Manipulation]
 - Final Lab Task 4: [Using SELECT Statement](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%204.md/finaltask4.md)
