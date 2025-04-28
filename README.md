@@ -13,5 +13,5 @@ I’m Jan Kirvy B. Turla, a BS Information Systems student at City College of An
 
 - Final Lab Task 1: [MySQL Basics](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%201/final1.md)
 - Final Lab Task 2: [Transforming ER Model to Relational Tables](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%202/final2.md)
-- Final Lab Task 3: [Table Manipulation]
+- Final Lab Task 3: [Table Manipulation](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%203/final3.md)
 - Final Lab Task 4: [Using SELECT Statement](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%204.md/finaltask4.md)
