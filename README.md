@@ -17,4 +17,4 @@ I’m Jan Kirvy B. Turla, a BS Information Systems student at City College of An
 - Final Lab Task 3: [Table Manipulation](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%203/final3.md)
 - Final Lab Task 4: [Using SELECT Statement](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Lab%20Task%204.md/finaltask4.md)
 - Final Lab Task 5: [Using Stored Procedures Views and Function](https://github.com/jankirvy02/jankirvy02/blob/main/Final%20Task%205/Final5.md)
-Final Lab Task 6: 
+Final Lab Task 6: [MongoDB Practice](https://github.com/jankirvy02/jankirvy02/edit/main/Final%20Lab%20Task%206/final6.md)
